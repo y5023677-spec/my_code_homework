@@ -1,0 +1,19 @@
+# VS C++ 编译输出目录
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# 编译中间产物
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.idb
+*.log
+
+# VS用户本地配置（每个人电脑不一样，不要上传）
+*.vcxproj.user
+*.suo
+
